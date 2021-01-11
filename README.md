@@ -4,6 +4,9 @@
 Com os dados disponibilizados pelo INEP, tentaremos descobrir quais fatores mais influenciam no desempenho dos estudantes que realizaram o ENEM em 2019.
 
  - Fazer download dos dados
-`bash data/download_data.sh `
+ 
+  `cd data/`
+  
+  `bash download_data.sh`
 
 [Leia o artigo baseado nesse projeto!](https://medium.com/@marcelojunior.tranche/analisando-dados-do-enem-2019-68d2c66752aa)
